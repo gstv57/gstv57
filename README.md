@@ -29,9 +29,4 @@
 
 <div align="left">
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gstv57/gstv57/output/snake.svg" alt="Snake animation" />
-
 ###
