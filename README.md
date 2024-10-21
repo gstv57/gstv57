@@ -5,11 +5,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.gifer.com/1gUa.gif"  />
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
